@@ -1648,6 +1648,6 @@ inline bool operator!=(const wxString& s, wxChar c) { return !s.IsSameAs(c); }
 
 WXDLLIMPEXP_BASE wxSTD ostream& operator<<(wxSTD ostream&, const wxString&);
 
-#endif  // wxSTD_STRING_COMPATIBILITY
+#endif  // wxUSE_STD_IOSTREAM
 
 #endif  // _WX_WXSTRINGH__
