@@ -19,6 +19,10 @@
 #if wxABI_VERSION >= 20809
 
 #include "wx/control.h"
+#include "wx/pen.h"
+
+class wxSizerItem;
+class wxBoxSizer;
 
 enum wxAuiToolBarStyle
 {
