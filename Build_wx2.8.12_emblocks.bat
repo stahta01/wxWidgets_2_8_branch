@@ -1,4 +1,4 @@
-SET PATH=C:\Apps32\MinGW-4.7.1-use\bin;%SystemRoot%\system32
+SET PATH=C:\Apps32\MingwGCC471TDM\bin;%SystemRoot%\system32
 
 ECHO %PATH%
 
@@ -20,7 +20,7 @@ REM PAUSE
     mingw32-make -f makefile.gcc CFG=_wxeb CPPFLAGS=%_CPPFLAGS% CXXFLAGS=%_CXXFLAGS% USE_XRC=1 SHARED=1 MONOLITHIC=1 BUILD=release UNICODE=1 VENDOR=eb
 REM BUILD=debug
 REM >log.txt 2>&1
-REM 
+REM
 REM USE_OPENGL=1
 
 PAUSE
