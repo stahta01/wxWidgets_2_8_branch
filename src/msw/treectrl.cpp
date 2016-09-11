@@ -26,6 +26,10 @@
 
 #if wxUSE_TREECTRL
 
+#ifndef _WIN32_IE
+#define _WIN32_IE 0x0601
+#endif
+
 #include "wx/treectrl.h"
 
 #ifndef WX_PRECOMP
