@@ -4,7 +4,7 @@
 // Author:      Robin Dunn
 // Modified by:
 // Created:     19-Dec-2006
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: srchcmn.cpp 43939 2006-12-11 20:32:16Z KO $
 // Copyright:   (c) wxWidgets team
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

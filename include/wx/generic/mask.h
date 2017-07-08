@@ -3,7 +3,7 @@
 // Purpose:     generic implementation of wxMask
 // Author:      Vadim Zeitlin
 // Created:     2006-09-28
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: mask.h 41495 2006-09-28 23:02:39Z VZ $
 // Copyright:   (c) 2006 Vadim Zeitlin <vadim@wxwindows.org>
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Francesco Montorsi
 // Modified by:
 // Created:     07.07.2006 (based on wxToolkitInfo)
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: platinfo.cpp 44078 2006-12-30 21:46:22Z SN $
 // Copyright:   (c) 2006 Francesco Montorsi
 // License:     wxWindows license
 ///////////////////////////////////////////////////////////////////////////////

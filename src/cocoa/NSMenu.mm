@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2002/12/09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: NSMenu.mm 51795 2008-02-14 19:46:21Z DE $
 // Copyright:   (c) 2002 David Elliott
 // Licence:     wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

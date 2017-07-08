@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/09/08
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: mdi.h 41020 2006-09-05 20:47:48Z VZ $
 // Copyright:   (c) 2003 David Elliott
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -2,7 +2,7 @@
 // Name:        test.cpp
 // Purpose:     Test program for wxWidgets
 // Author:      Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: test.cpp 64032 2010-04-18 16:27:27Z MW $
 // Copyright:   (c) 2004 Mike Wetherell
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

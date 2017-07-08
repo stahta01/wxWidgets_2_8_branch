@@ -5,7 +5,7 @@
 #-- Author:      Gilles Depeyrot
 #-- Modified by:
 #-- Created:     07.01.2002
-#-- RCS-ID:      $Id$
+#-- RCS-ID:      $Id: M5converteol.sh 15373 2002-05-04 14:19:09Z GD $
 #-- Copyright:   (c) 2001 Gilles Depeyrot
 #-- Licence:     wxWindows licence
 #-----------------------------------------------------------------------------

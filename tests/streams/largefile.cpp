@@ -2,7 +2,7 @@
 // Name:        tests/streams/largefile.cpp
 // Purpose:     Tests for large file support
 // Author:      Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: largefile.cpp 63301 2010-01-28 21:38:27Z MW $
 // Copyright:   (c) 2004 Mike Wetherell
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

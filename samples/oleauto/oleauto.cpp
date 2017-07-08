@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by:
 // Created:     08/12/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: oleauto.cpp 40587 2006-08-13 01:17:53Z VZ $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

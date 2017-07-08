@@ -2,7 +2,7 @@
 // Name:        win_gtk.h
 // Purpose:     wxWidgets's GTK base widget = GtkPizza
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: win_gtk.h 42143 2006-10-20 05:47:15Z PC $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////// */

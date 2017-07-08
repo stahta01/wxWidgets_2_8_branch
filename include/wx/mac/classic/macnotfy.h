@@ -3,7 +3,7 @@
  * Name:    macnotfy.h
  * Author:  Stefan CSomor
  * Purpose: Mac Notifier include file
- * CVSID:   $Id$
+ * CVSID:   $Id: macnotfy.h 26305 2004-03-23 17:38:49Z SC $
  * -------------------------------------------------------------------------
  */
  

@@ -2,7 +2,7 @@
 // Name:        tests/regex/regex.cpp
 // Purpose:     Test the built-in regex lib and wxRegEx
 // Author:      Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: regextest.cpp 36158 2005-11-11 16:55:03Z MW $
 // Copyright:   (c) 2004 Mike Wetherell
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

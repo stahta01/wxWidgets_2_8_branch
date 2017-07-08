@@ -5,7 +5,7 @@
 // Created:    April 1997
 // Copyright:  (C) 1999-1997, Guilhem Lavaux
 //             (C) 2000-1999, Guillermo Rodriguez Garcia
-// RCS_ID:     $Id$
+// RCS_ID:     $Id: cfsocket.cpp 40943 2006-08-31 19:31:43Z ABX $
 // License:    see wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
 

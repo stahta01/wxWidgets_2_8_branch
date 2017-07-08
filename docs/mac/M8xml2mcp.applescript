@@ -4,7 +4,7 @@
 -- Author:      Gilles Depeyrot
 -- Modified by: Stefan Csomor
 -- Created:     30.11.2001
--- RCS-ID:      $Id$
+-- RCS-ID:      $Id: M8xml2mcp.applescript 26999 2004-04-28 22:03:15Z DS $
 -- Copyright:   (c) 2001 Gilles Depeyrot
 -- Licence:     wxWindows licence
 -----------------------------------------------------------------------------

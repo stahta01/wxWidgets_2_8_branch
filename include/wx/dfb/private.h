@@ -3,7 +3,7 @@
 // Purpose:     private helpers for wxDFB implementation
 // Author:      Vaclav Slavik
 // Created:     2006-08-09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: private.h 41154 2006-09-11 09:08:57Z VS $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

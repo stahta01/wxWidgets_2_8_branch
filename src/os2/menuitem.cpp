@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     10/10/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: menuitem.cpp 41021 2006-09-05 21:00:55Z VZ $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

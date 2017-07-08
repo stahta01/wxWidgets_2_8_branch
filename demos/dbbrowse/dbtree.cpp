@@ -4,7 +4,7 @@
 // Author:      Mark Johnson
 // Modified by:
 // Created:     19991129
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dbtree.cpp 44499 2007-02-13 23:22:24Z VZ $
 // Copyright:   (c) Mark Johnson, Berlin Germany
 // Licence:     wxWindows license
 //----------------------------------------------------------------------------------------

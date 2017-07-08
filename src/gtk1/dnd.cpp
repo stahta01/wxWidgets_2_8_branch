@@ -2,7 +2,7 @@
 // Name:        src/gtk1/dnd.cpp
 // Purpose:     wxDropTarget class
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: dnd.cpp 43806 2006-12-04 17:11:37Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

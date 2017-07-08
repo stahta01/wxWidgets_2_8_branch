@@ -2,7 +2,7 @@
 // Name:        dirdlg.h
 // Purpose:     wxDirDialog
 // Author:      Francesco Montorsi
-// Id:          $Id$
+// Id:          $Id: dirdlg.h 39402 2006-05-28 23:32:12Z VZ $
 // Copyright:   (c) 2006 Francesco Montorsi
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

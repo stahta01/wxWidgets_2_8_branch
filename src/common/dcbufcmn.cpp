@@ -4,7 +4,7 @@
 // Author:      Ron Lee, Jaakko Salli
 // Modified by:
 // Created:     Sep-20-2006
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dcbufcmn.cpp 52152 2008-02-27 18:03:12Z VZ $
 // Copyright:   (c) wxWidgets team
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

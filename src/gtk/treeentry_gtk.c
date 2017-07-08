@@ -2,7 +2,7 @@
 // Name:        src/gtk/treeentry_gtk.c
 // Purpose:     GtkTreeEntry implementation
 // Author:      Ryan Norton
-// Id:          $Id$
+// Id:          $Id: treeentry_gtk.c 45943 2007-05-10 15:10:04Z VZ $
 // Copyright:   (c) 2006 Ryan Norton
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////// */

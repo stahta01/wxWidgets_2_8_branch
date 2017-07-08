@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     11/27/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: statbmp.h 36567 2005-12-25 14:37:51Z SN $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

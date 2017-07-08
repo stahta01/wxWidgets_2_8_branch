@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     01/21/03
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: listctrl.cpp 62191 2009-09-28 23:42:13Z BP $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

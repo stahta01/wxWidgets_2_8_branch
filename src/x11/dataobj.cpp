@@ -2,7 +2,7 @@
 // Name:        src/x11/dataobj.cpp
 // Purpose:     wxDataObject class
 // Author:      Julian Smart
-// Id:          $Id$
+// Id:          $Id: dataobj.cpp 42079 2006-10-17 17:16:53Z JS $
 // Copyright:   (c) 1998 Julian Smart
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

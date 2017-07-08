@@ -4,7 +4,7 @@
 // Author:      Stefan Csomor
 // Modified by: Stefan Csomor
 // Created:     1998-01-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: setup0.h 51451 2008-01-29 23:11:55Z VZ $
 // Copyright:   (c) Stefan Csomor
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

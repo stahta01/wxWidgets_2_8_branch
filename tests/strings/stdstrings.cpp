@@ -3,7 +3,7 @@
 // Purpose:     wxString unit test
 // Author:      Vadim Zeitlin, Wlodzimierz ABX Skiba
 // Created:     2004-05-07
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: stdstrings.cpp 38742 2006-04-15 15:03:57Z VZ $
 // Copyright:   (c) 2004 Vadim Zeitlin, Wlodzimierz Skiba
 ///////////////////////////////////////////////////////////////////////////////
 

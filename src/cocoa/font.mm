@@ -4,7 +4,7 @@
 // Author:      AUTHOR
 // Modified by:
 // Created:     ??/??/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: font.mm 49216 2007-10-18 08:23:05Z DE $
 // Copyright:   (c) AUTHOR
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

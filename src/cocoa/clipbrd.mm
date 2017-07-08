@@ -4,7 +4,7 @@
 // Author:      David Elliott <dfe@cox.net>
 // Modified by:
 // Created:     2003/07/23
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: clipbrd.mm 27405 2004-05-23 15:10:40Z JS $
 // Copyright:   (c) 2003 David Elliott
 // Licence:   	wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

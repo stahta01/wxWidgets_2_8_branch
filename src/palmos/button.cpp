@@ -4,7 +4,7 @@
 // Author:      William Osborne - minimal working wxPalmOS port
 // Modified by: Wlodzimierz ABX Skiba - native wxButton implementation
 // Created:     10/13/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: button.cpp 40978 2006-09-03 12:23:04Z RR $
 // Copyright:   (c) William Osborne, Wlodzimierz Skiba
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

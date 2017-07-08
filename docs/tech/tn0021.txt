@@ -71,5 +71,5 @@ which are in docs/latex/wx/cppconst.tex. So normally there is nothing to do
 === EOF ===
 
 Author:  VZ
-Version: $Id$
+Version: $Id: tn0021.txt 35738 2005-09-27 15:46:24Z VZ $
 

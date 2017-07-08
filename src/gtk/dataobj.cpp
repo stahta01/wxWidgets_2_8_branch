@@ -2,7 +2,7 @@
 // Name:        src/gtk/dataobj.cpp
 // Purpose:     wxDataObject class
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: dataobj.cpp 53663 2008-05-20 05:19:07Z PC $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

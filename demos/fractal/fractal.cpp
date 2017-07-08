@@ -4,7 +4,7 @@
 // Author:      Andrew Davison
 // Modified by:
 // Created:     05.04.94
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fractal.cpp 35650 2005-09-23 12:56:45Z MR $
 // Copyright:   (c) 1994 Andrew Davison
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

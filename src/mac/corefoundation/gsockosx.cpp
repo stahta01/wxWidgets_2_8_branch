@@ -2,7 +2,7 @@
  * Project: GSocket (Generic Socket) for WX
  * Name:    src/mac/corefoundation/gsockosx.c
  * Purpose: GSocket: Mac OS X mach-o part
- * CVSID:   $Id$
+ * CVSID:   $Id: gsockosx.cpp 49205 2007-10-17 21:52:02Z DE $
  * Mac code by Brian Victor, February 2002.  Email comments to bhv1@psu.edu
  * ------------------------------------------------------------------------- */
 

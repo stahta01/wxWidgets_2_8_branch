@@ -2,7 +2,7 @@
 // Name:        src/gtk1/cursor.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: cursor.cpp 42752 2006-10-30 19:26:48Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

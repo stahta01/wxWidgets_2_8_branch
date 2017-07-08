@@ -2,7 +2,7 @@
 // Name:        tests/streams/zlibstream.cpp
 // Purpose:     Test wxZlibInputStream/wxZlibOutputStream
 // Author:      Hans Van Leemputten
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: zlibstream.cpp 35903 2005-10-15 19:01:25Z MW $
 // Copyright:   (c) 2004 Hans Van Leemputten
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

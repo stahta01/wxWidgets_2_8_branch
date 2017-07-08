@@ -9,7 +9,7 @@
  * See the file "license.terms" for information on usage and redistribution
  * of this file, and for a DISCLAIMER OF ALL WARRANTIES.
  *
- * RCS: @(#) $Id$
+ * RCS: @(#) $Id: regc_locale.c 65053 2010-07-23 11:56:53Z VZ $
  *
  * wxWidgets:
  *  The Scriptics license can be found in the file COPYRIGHT. Modifications

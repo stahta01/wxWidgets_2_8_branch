@@ -4,7 +4,7 @@
 // Author:      Ryan Norton
 // Modified by:
 // Created:     2005-06-21
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utilsexc_base.cpp 40283 2006-07-24 18:01:39Z VZ $
 // Copyright:   (c) Ryan Norton
 // Licence:     wxWindows licence
 // Notes:       Source was originally in utilsexc_cf.cpp,1.6 then moved

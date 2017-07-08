@@ -2,7 +2,7 @@
 // Name:        src/mgl/brush.cpp
 // Purpose:
 // Author:      Vaclav Slavik
-// Id:          $Id$
+// Id:          $Id: brush.cpp 42989 2006-11-03 19:45:17Z VZ $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

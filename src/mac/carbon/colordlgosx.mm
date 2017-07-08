@@ -5,7 +5,7 @@
 // Author:      Ryan Norton
 // Modified by:
 // Created:     2004-11-16
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: colordlgosx.mm 35650 2005-09-23 12:56:45Z MR $
 // Copyright:   (c) Ryan Norton
 // Licence:       wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

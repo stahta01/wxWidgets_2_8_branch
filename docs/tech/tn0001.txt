@@ -54,4 +54,4 @@ samples/ with demos/ where needed).
 === EOF ===
 
 Author:  VZ
-Version: $Id$
+Version: $Id: tn0001.txt 42992 2006-11-03 21:00:58Z VZ $

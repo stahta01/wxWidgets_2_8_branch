@@ -2,7 +2,7 @@
 // Name:        wx/gtk/dc.h
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: dc.h 41965 2006-10-12 06:23:52Z RD $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

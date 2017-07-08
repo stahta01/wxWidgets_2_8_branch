@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.in 42385 2006-10-25 06:51:10Z RD $
 
 CONTRIB_SUBDIRS=fl gizmos mmedia ogl plot stc svg #deprecated #applet
 

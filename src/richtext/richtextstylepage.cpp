@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by:
 // Created:     10/5/2006 11:34:55 AM
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: richtextstylepage.cpp 65919 2010-10-25 09:24:29Z JS $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

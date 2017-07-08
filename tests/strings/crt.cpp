@@ -3,7 +3,7 @@
 // Purpose:     Test for wx C runtime functions wrappers
 // Author:      Vaclav Slavik
 // Created:     2004-06-03
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: crt.cpp 54659 2008-07-16 02:59:37Z VZ $
 // Copyright:   (c) 2004 Vaclav Slavik 
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

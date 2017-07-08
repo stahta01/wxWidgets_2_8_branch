@@ -4,7 +4,7 @@
 // Author:      Stefan Csomor
 // Modified by:
 // Created:     
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: graphcmn.cpp 56801 2008-11-16 23:25:09Z KO $
 // Copyright:   (c) Stefan Csomor
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

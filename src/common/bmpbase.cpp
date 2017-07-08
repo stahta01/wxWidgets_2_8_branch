@@ -3,7 +3,7 @@
 // Purpose:     wxBitmapBase
 // Author:      VaclavSlavik
 // Created:     2001/04/11
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: bmpbase.cpp 42752 2006-10-30 19:26:48Z VZ $
 // Copyright:   (c) 2001, Vaclav Slavik
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

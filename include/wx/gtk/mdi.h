@@ -2,7 +2,7 @@
 // Name:        wx/gtk/mdi.h
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: mdi.h 42403 2006-10-25 17:51:28Z RR $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

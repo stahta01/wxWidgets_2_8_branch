@@ -2,7 +2,7 @@
 // Name:        src/mgl/evtloop.cpp
 // Purpose:     implements wxEventLoop for MGL
 // Author:      Vaclav Slavik
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: evtloop.cpp 43840 2006-12-06 23:28:44Z VZ $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

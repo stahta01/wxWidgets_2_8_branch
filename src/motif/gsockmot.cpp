@@ -2,7 +2,7 @@
 // Name:    src/motif/gsockmot.cpp
 // Project: GSocket (Generic Socket) for WX
 // Purpose: GSocket: Motif part
-// CVSID:   $Id$
+// CVSID:   $Id: gsockmot.cpp 35808 2005-10-06 12:10:44Z ABX $
 // Licence: wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
 

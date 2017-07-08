@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 // Name:        src/univ/topluniv.cpp
 // Author:      Vaclav Slavik
-// Id:          $Id$
+// Id:          $Id: topluniv.cpp 43616 2006-11-23 14:50:42Z VS $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

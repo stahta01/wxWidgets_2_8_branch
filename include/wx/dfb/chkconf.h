@@ -3,7 +3,7 @@
  * Author:      Vaclav Slavik
  * Purpose:     Compiler-specific configuration checking
  * Created:     2006-08-10
- * RCS-ID:      $Id$
+ * RCS-ID:      $Id: chkconf.h 43550 2006-11-20 20:45:57Z VS $
  * Copyright:   (c) 2006 REA Elektronik GmbH
  * Licence:     wxWindows licence
  */

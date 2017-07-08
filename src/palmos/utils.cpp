@@ -4,7 +4,7 @@
 // Author:      William Osborne - minimal working wxPalmOS port
 // Modified by: Wlodzimierz ABX Skiba - real functionality
 // Created:     10/13/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utils.cpp 40789 2006-08-24 14:27:41Z ABX $
 // Copyright:   (c) William Osborne, Wlodzimierz Skiba
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

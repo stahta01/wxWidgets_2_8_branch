@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by: 
 // Created:     2004/03/28
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: ObjcRef.h 51591 2008-02-08 08:06:26Z DE $
 // Copyright:   (c) 2004 David Elliott <dfe@cox.net>
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

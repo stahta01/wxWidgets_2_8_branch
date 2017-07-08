@@ -4,7 +4,7 @@
 // Author:      Ryan Norton
 // Modified by:
 // Created:     11/10/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: mediaplayer.cpp 37461 2006-02-10 19:37:40Z VZ $
 // Copyright:   (c) Ryan Norton
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

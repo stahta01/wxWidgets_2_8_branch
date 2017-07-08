@@ -2,7 +2,7 @@
 // Name:        src/motif/dataobj.cpp
 // Purpose:     wxDataObject class
 // Author:      Julian Smart
-// Id:          $Id$
+// Id:          $Id: dataobj.cpp 38972 2006-05-02 10:39:23Z ABX $
 // Copyright:   (c) 1998 Julian Smart
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

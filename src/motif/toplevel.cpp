@@ -4,7 +4,7 @@
 // Author:      Mattia Barbon
 // Modified by:
 // Created:     12/10/2002
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: toplevel.cpp 50982 2008-01-01 20:38:33Z VZ $
 // Copyright:   (c) Mattia Barbon
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

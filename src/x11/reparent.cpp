@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by:
 // Created:     2002-03-09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: reparent.cpp 39285 2006-05-23 11:04:37Z ABX $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

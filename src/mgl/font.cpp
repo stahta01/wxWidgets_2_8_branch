@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 // Name:        src/mgl/font.cpp
 // Author:      Vaclav Slavik
-// Id:          $Id$
+// Id:          $Id: font.cpp 43547 2006-11-20 16:43:55Z VS $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

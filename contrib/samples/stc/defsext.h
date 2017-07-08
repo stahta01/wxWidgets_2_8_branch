@@ -3,7 +3,7 @@
 // Purpose:     STC test declarations
 // Maintainer:  Wyo
 // Created:     2003-09-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: defsext.h 35523 2005-09-16 18:25:44Z ABX $
 // Copyright:   (c) wxGuide
 // Licence:     wxWindows licence
 //////////////////////////////////////////////////////////////////////////////

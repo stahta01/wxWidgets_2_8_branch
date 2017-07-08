@@ -4,7 +4,7 @@
 // Purpose:     Part of the widgets sample showing book controls
 // Author:      Vadim Zeitlin, Wlodzimierz ABX Skiba
 // Created:     06.04.01
-// Id:          $Id$
+// Id:          $Id: notebook.cpp 51519 2008-02-03 13:48:11Z VZ $
 // Copyright:   (c) 2001 Vadim Zeitlin, 2006 Wlodzimierz Skiba
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

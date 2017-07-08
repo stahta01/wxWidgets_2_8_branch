@@ -2,7 +2,7 @@
 // Name:        wx/mgl/window.h
 // Purpose:     wxWindow class
 // Author:      Vaclav Slavik
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: window.h 36086 2005-11-04 18:49:49Z ABX $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Mattia Barbon
 // Modified by:
 // Created:     05/04/03
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utilsx.cpp 50982 2008-01-01 20:38:33Z VZ $
 // Copyright:   (c) Mattia Barbon
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

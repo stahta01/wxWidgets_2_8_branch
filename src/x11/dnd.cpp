@@ -2,7 +2,7 @@
 // Name:        src/x11/dnd.cpp
 // Purpose:     wxDropTarget, wxDropSource classes
 // Author:      Julian Smart
-// Id:          $Id$
+// Id:          $Id: dnd.cpp 39797 2006-06-19 20:18:46Z ABX $
 // Copyright:   (c) 1998 Julian Smart
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

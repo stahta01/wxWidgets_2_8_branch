@@ -3,7 +3,7 @@
 // Purpose:     XML resource handler for wxFilePickerCtrl
 // Author:      Francesco Montorsi
 // Created:     2006-04-17
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_filepicker.cpp 55531 2008-09-09 19:36:41Z VS $
 // Copyright:   (c) 2006 Francesco Montorsi
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

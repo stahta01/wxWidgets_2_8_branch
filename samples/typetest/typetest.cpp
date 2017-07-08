@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by:
 // Created:     04/01/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: typetest.cpp 36258 2005-11-27 01:58:19Z MW $
 // Copyright:   (c) Julian Smart
 // Licence:       wxWindows license
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Jorgen Bodde
 // Modified by:
 // Created:     25/06/2004
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: layouttest.h 35650 2005-09-23 12:56:45Z MR $
 // Copyright:   (c) Jorgen Bodde
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

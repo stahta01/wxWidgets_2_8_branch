@@ -4,7 +4,7 @@
 // Author:      Francesco Montorsi
 // Modified by:
 // Created:     14/10/06
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: collpane.cpp 42759 2006-10-30 20:08:17Z VZ $
 // Copyright:   (c) Francesco Montorsi
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

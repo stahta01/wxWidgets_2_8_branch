@@ -2,7 +2,7 @@
 // Name:        wx/mgl/app.h
 // Purpose:
 // Author:      Vaclav Slavik
-// Id:          $Id$
+// Id:          $Id: app.h 41221 2006-09-14 16:51:13Z ABX $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

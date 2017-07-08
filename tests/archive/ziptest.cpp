@@ -2,7 +2,7 @@
 // Name:        tests/archive/ziptest.cpp
 // Purpose:     Test the zip classes
 // Author:      Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: ziptest.cpp 36429 2005-12-18 13:58:55Z MW $
 // Copyright:   (c) 2004 Mike Wetherell
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

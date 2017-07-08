@@ -4,7 +4,7 @@
 // Author:      Stefan Csomor
 // Modified by:
 // Created:     
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: popupwin.cpp 46459 2007-06-13 22:55:58Z SC $
 // Copyright:   (c) 2006 Stefan Csomor
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

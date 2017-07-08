@@ -4,7 +4,7 @@
 // Author:      Robert Roebling
 // Modified by: Sandro Sigala
 // Created:     04/01/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: penguin.cpp 43272 2006-11-10 15:16:02Z VZ $
 // Copyright:   (c) Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

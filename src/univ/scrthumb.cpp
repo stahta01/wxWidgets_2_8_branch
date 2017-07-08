@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     13.02.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: scrthumb.cpp 39633 2006-06-08 11:25:30Z ABX $
 // Copyright:   (c) 2001 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

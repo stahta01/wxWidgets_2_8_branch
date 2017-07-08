@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/04/01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dcclient.mm 31442 2005-01-18 03:47:33Z DE $
 // Copyright:   (c) 2003 David Elliott
 // Licence:   	wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

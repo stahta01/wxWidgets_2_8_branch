@@ -3,7 +3,7 @@
 // Purpose:     declares wxEventLoop class
 // Author:      Vaclav Slavik
 // Created:     2006-08-16
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: evtloop.h 43999 2006-12-18 17:24:06Z VS $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

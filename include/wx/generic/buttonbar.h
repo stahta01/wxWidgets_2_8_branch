@@ -4,7 +4,7 @@
 // Author:      Julian Smart, after Robert Roebling, Vadim Zeitlin, SciTech
 // Modified by:
 // Created:     2006-04-13
-// Id:          $Id$
+// Id:          $Id: buttonbar.h 38714 2006-04-14 15:49:57Z JS $
 // Copyright:   (c) Julian Smart, Robert Roebling, Vadim Zeitlin,
 //              SciTech Software, Inc. 
 // Licence:     wxWindows licence

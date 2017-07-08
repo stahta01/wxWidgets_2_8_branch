@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     20.08.2003 (extracted from os2/utils.cpp)
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utilsgui.cpp 41127 2006-09-10 12:25:54Z VZ $
 // Copyright:   (c) David Webster
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

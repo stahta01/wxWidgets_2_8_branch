@@ -3,7 +3,7 @@
 // Purpose:     wxArray unit test
 // Author:      Vadim Zeitlin, Wlodzimierz ABX Skiba
 // Created:     2004-04-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: arrays.cpp 43030 2006-11-04 12:51:01Z VZ $
 // Copyright:   (c) 2004 Vadim Zeitlin, Wlodzimierz Skiba
 ///////////////////////////////////////////////////////////////////////////////
 

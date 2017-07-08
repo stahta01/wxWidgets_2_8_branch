@@ -4,7 +4,7 @@
 // Author:    Carlos Moreno
 // Modified by:
 // Created:   6/2/2000
-// RCS-ID:    $Id$
+// RCS-ID:    $Id: rotate.cpp 40587 2006-08-13 01:17:53Z VZ $
 // Copyright: (c) 2000
 // Licence:   wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

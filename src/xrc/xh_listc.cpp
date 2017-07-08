@@ -3,7 +3,7 @@
 // Purpose:     XRC resource for wxListCtrl
 // Author:      Brian Gavin
 // Created:     2000/09/09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_listc.cpp 39583 2006-06-06 07:23:19Z ABX $
 // Copyright:   (c) 2000 Brian Gavin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

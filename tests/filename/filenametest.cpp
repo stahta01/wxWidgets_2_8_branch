@@ -3,7 +3,7 @@
 // Purpose:     wxFileName unit test
 // Author:      Vadim Zeitlin
 // Created:     2004-07-25
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: filenametest.cpp 56493 2008-10-23 11:19:48Z VZ $
 // Copyright:   (c) 2004 Vadim Zeitlin
 ///////////////////////////////////////////////////////////////////////////////
 

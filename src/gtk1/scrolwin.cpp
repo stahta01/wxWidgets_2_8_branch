@@ -5,7 +5,7 @@
 // Modified by: Ron Lee
 //              Vadim Zeitlin: removed 90% of duplicated common code
 // Created:     01/02/97
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: scrolwin.cpp 37063 2006-01-23 01:14:32Z MR $
 // Copyright:   (c) Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: t4.h 30659 2004-11-19 22:29:47Z VZ $ */
 
 /*
  * Copyright (c) 1988-1997 Sam Leffler

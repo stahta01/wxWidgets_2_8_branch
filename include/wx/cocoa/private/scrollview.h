@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2008/02/14
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: scrollview.h 60554 2009-05-08 23:10:00Z VZ $
 // Copyright:   (c) 2003- David Elliott
 // Licence:     wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

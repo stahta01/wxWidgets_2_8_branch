@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin <zeitlin@dptmaths.ens-cachan.fr>
 // Modified by:
 // Created:     06/01/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: HelpGen.cpp 34465 2005-05-31 17:47:46Z ABX $
 // Copyright:   (c) 1999 VZ
 // Licence:     wxWindows Licence
 /////////////////////////////////////////////////////////////////////////////
@@ -2204,8 +2204,8 @@ static const char *GetCurrentTimeFormatted(const char *timeFormat)
 
 static const wxString GetVersionString()
 {
-    wxString version = "$Revision$";
-    wxRegEx("^\\$Revision$$").ReplaceFirst(&version, "\\1");
+    wxString version = "$Revision: 34465 $";
+    wxRegEx("^\\$Revision: 34465 $$").ReplaceFirst(&version, "\\1");
     return version;
 }
 

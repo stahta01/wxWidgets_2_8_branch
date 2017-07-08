@@ -4,7 +4,7 @@
 // Author:      Robert Roebling
 // Modified by:
 // Created:     28.06.99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: clipcmn.cpp 40943 2006-08-31 19:31:43Z ABX $
 // Copyright:   (c) Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by: Robin Dunn, Vadim Zeitlin
 // Created:     04/01/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: layout.cpp 42642 2006-10-29 18:10:32Z RR $
 // Copyright:   (c) 1998 Julian Smart
 //                  2005 Vadim Zeitlin
 // Licence:     wxWindows license

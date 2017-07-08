@@ -5,7 +5,7 @@
 // Modified by:
 // Created:
 // Copyright:   (c) Stefan Csomor
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dcgraph.h 53390 2008-04-28 04:19:15Z KO $
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
 

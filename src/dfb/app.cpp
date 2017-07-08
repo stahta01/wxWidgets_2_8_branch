@@ -4,7 +4,7 @@
 // Author:      Vaclav Slavik
 //              based on MGL implementation
 // Created:     2006-08-16
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: app.cpp 54754 2008-07-21 17:14:32Z VZ $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

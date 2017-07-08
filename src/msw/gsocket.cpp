@@ -6,7 +6,7 @@
  * Author:      Guillermo Rodriguez Garcia <guille@iies.es>
  * Purpose:     GSocket main MSW file
  * Licence:     The wxWindows licence
- * CVSID:       $Id$
+ * CVSID:       $Id: gsocket.cpp 52492 2008-03-14 14:17:14Z JS $
  * -------------------------------------------------------------------------
  */
 

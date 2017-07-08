@@ -4,7 +4,7 @@
 // Author:      David Elliott <dfe@cox.net>
 // Modified by: Stefan Csomor
 // Created:     2007/05/10
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: cfref.h 51576 2008-02-06 20:10:07Z DE $
 // Copyright:   (c) 2007 David Elliott <dfe@cox.net>, Stefan Csomor
 // Licence:     wxWindows licence
 // Notes:       See http://developer.apple.com/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/index.html

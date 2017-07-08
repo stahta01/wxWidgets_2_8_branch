@@ -4,7 +4,7 @@
 // Author:      Wlodzimierz ABX Skiba
 // Modified by:
 // Created:     29.12.2004
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: progdlg.cpp 39326 2006-05-25 07:07:23Z ABX $
 // Copyright:   (c) Wlodzimierz Skiba
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

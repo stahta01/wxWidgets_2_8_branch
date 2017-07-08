@@ -4,7 +4,7 @@
 // Author:      AUTHOR
 // Modified by:
 // Created:     2003/??/??
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utils.mm 48184 2007-08-19 19:22:09Z DE $
 // Copyright:   (c) AUTHOR
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

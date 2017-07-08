@@ -3,7 +3,7 @@
 // Purpose:     implements wxSearchCtrl as a composite control
 // Author:      Vince Harron
 // Created:     2006-02-19
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: srchctlg.cpp 47962 2007-08-08 12:38:13Z JS $
 // Copyright:   Vince Harron
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

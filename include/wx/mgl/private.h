@@ -5,7 +5,7 @@
 //              with "wx".
 // Author:      Vaclav Slavik
 // Created:     2001/04/07
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: private.h 36679 2006-01-04 14:14:32Z MW $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

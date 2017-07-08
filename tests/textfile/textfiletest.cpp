@@ -3,7 +3,7 @@
 // Purpose:     wxTextFile unit test
 // Author:      Vadim Zeitlin
 // Created:     2006-03-31
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: textfiletest.cpp 56161 2008-10-08 16:06:36Z VZ $
 // Copyright:   (c) 2006 Vadim Zeitlin
 ///////////////////////////////////////////////////////////////////////////////
 

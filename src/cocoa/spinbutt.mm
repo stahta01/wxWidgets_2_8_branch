@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/07/14
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: spinbutt.mm 33816 2005-04-22 01:13:45Z RN $
 // Copyright:   (c) 2003 David Elliott
 // Licence:   	wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

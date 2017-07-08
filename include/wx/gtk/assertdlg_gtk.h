@@ -2,7 +2,7 @@
 // Name:        assertdlg_gtk.h
 // Purpose:     GtkAssertDialog
 // Author:      Francesco Montorsi
-// Id:          $Id$
+// Id:          $Id: assertdlg_gtk.h 43766 2006-12-03 16:15:01Z VZ $
 // Copyright:   (c) 2006 Francesco Montorsi
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////// */

@@ -2,7 +2,7 @@
 // Name:        src/mac/classic/tooltip.cpp
 // Purpose:     wxToolTip implementation
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: tooltip.cpp 39285 2006-05-23 11:04:37Z ABX $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

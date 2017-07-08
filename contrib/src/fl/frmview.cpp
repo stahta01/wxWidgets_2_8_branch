@@ -4,7 +4,7 @@
 // Author:      Aleksandras Gluchovas
 // Modified by:
 // Created:     02/01/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: frmview.cpp 66919 2011-02-16 21:57:42Z JS $
 // Copyright:   (c) Aleksandras Gluchovas
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

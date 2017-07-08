@@ -2,7 +2,7 @@
 // Name:        src/msdos/utils.cpp
 // Purpose:     DOS implementations of utility functions
 // Author:      Vaclav Slavik, M.J.Wetherell
-// Id:          $Id$
+// Id:          $Id: utilsdos.cpp 41020 2006-09-05 20:47:48Z VZ $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 //              (c) 2005 M.J.Wetherell
 // Licence:     wxWindows licence

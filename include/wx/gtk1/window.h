@@ -2,7 +2,7 @@
 // Name:        wx/gtk1/window.h
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: window.h 41810 2006-10-09 16:39:34Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

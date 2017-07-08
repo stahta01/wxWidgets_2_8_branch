@@ -3,7 +3,7 @@
 // Purpose:     XML resource handler for wxCollapsiblePane
 // Author:      Francesco Montorsi
 // Created:     2006-10-27
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_collpane.cpp 43434 2006-11-15 19:00:16Z RR $
 // Copyright:   (c) 2006 Francesco Montorsi
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

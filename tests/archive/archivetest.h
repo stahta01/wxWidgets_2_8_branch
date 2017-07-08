@@ -2,7 +2,7 @@
 // Name:        tests/archive/archivetest.h
 // Purpose:     Test the archive classes
 // Author:      Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: archivetest.h 41411 2006-09-24 11:52:53Z MW $
 // Copyright:   (c) 2004 Mike Wetherell
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

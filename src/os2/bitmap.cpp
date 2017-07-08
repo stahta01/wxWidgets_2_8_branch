@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     08/08/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: bitmap.cpp 43052 2006-11-04 18:52:56Z SN $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

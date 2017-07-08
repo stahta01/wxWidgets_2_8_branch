@@ -3,7 +3,7 @@
 // Purpose:     wxStringTokenizer unit test
 // Author:      Vadim Zeitlin
 // Created:     2005-12-20 (extacted from strings.cpp)
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: tokenizer.cpp 37322 2006-02-05 14:01:37Z rgammans $
 // Copyright:   (c) 2004-2005 Vadim Zeitlin
 ///////////////////////////////////////////////////////////////////////////////
 

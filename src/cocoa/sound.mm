@@ -4,7 +4,7 @@
 // Authors:     David Elliott, Ryan Norton
 // Modified by: 
 // Created:     2004-10-02
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: sound.mm 48107 2007-08-15 16:12:45Z DE $
 // Copyright:   (c) 2004 David Elliott, Ryan Norton
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

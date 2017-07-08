@@ -3,7 +3,7 @@
 // Purpose:     wxDataViewCtrl base classes and common parts
 // Author:      Robert Roebling
 // Created:     2006/02/20
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: datavcmn.cpp 41670 2006-10-07 14:15:53Z RR $
 // Copyright:   (c) 2006, Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

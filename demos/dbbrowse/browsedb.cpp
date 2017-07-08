@@ -6,7 +6,7 @@
 // Created:     19991127.mj10777
 // Copyright:   (c) Mark Johnson
 // Licence:     wxWindows license
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: browsedb.cpp 35650 2005-09-23 12:56:45Z MR $
 //----------------------------------------------------------------------------------------
 
 // For compilers that support precompilation, includes "wx/wx.h".

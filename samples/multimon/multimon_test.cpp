@@ -4,7 +4,7 @@
 // Author:      Royce Mitchell III
 // Modified by:
 // Created:     06/21/02
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: multimon_test.cpp 41547 2006-10-02 05:36:31Z PC $
 // Copyright:   (c) wxWidgets team
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

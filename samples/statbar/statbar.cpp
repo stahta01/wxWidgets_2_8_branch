@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     04.02.00
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: statbar.cpp 38638 2006-04-09 11:00:45Z VZ $
 // Copyright:   (c) Vadim Zeitlin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

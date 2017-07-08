@@ -2,7 +2,7 @@
 // Name:        src/mgl/fontenum.cpp
 // Purpose:     wxFontEnumerator class for MGL
 // Author:      Vaclav Slavik
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fontenum.cpp 43550 2006-11-20 20:45:57Z VS $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

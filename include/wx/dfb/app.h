@@ -3,7 +3,7 @@
 // Purpose:     wxApp class
 // Author:      Vaclav Slavik
 // Created:     2006-08-10
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: app.h 41133 2006-09-10 16:11:27Z VS $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

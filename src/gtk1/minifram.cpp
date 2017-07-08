@@ -2,7 +2,7 @@
 // Name:        src/gtk1/minifram.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: minifram.cpp 39123 2006-05-09 13:55:29Z ABX $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

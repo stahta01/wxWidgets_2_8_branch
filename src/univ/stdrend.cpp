@@ -3,7 +3,7 @@
 // Purpose:     implementation of wxStdRenderer
 // Author:      Vadim Zeitlin
 // Created:     2006-09-16
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: stdrend.cpp 49996 2007-11-16 15:52:17Z CE $
 // Copyright:   (c) 2006 Vadim Zeitlin <vadim@wxwindows.org>
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

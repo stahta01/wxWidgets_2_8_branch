@@ -3,7 +3,7 @@
 // Purpose:     wxWindow
 // Author:      Vaclav Slavik
 //              (based on GTK & MSW implementations)
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: window.cpp 48765 2007-09-18 14:15:27Z JS $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

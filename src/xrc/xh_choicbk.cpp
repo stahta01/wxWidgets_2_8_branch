@@ -3,7 +3,7 @@
 // Purpose:     XRC resource for wxChoicebook
 // Author:      Vaclav Slavik
 // Created:     2000/03/21
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_choicbk.cpp 39627 2006-06-08 06:57:39Z ABX $
 // Copyright:   (c) 2000 Vaclav Slavik
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
  * Author:      Julian Smart
  * Modified by:
  * Created:     01/02/97
- * RCS-ID:      $Id$
+ * RCS-ID:      $Id: chkconf.h 27408 2004-05-23 20:53:33Z JS $
  * Copyright:   (c) Julian Smart
  * Licence:     wxWindows licence
  */

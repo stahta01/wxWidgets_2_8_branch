@@ -4,7 +4,7 @@
 // Author:      Aleksandras Gluchovas
 // Modified by:
 // Created:     04/11/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fl_demo2.h 34912 2005-07-22 16:43:04Z MR $
 // Copyright:   (c) Aleksandras Gluchovas
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

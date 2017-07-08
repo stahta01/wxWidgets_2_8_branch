@@ -4,7 +4,7 @@
 // Author:      David Elliott <dfe@cox.net>
 // Modified by:
 // Created:     2002/11/27
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: cursor.h 42077 2006-10-17 14:44:52Z ABX $
 // Copyright:   (c) David Elliott
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

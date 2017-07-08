@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 // Name:        font.h
 // Author:      Vaclav Slavik
-// Id:          $Id$
+// Id:          $Id: font.h 43550 2006-11-20 20:45:57Z VS $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

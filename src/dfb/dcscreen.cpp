@@ -3,7 +3,7 @@
 // Purpose:     wxScreenDC implementation
 // Author:      Vaclav Slavik
 // Created:     2006-08-16
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dcscreen.cpp 54747 2008-07-21 16:58:06Z VZ $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

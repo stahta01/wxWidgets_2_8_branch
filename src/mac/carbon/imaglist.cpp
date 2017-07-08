@@ -2,7 +2,7 @@
 // Name:        src/mac/carbon/imaglist.cpp
 // Purpose:
 // Author:      Robert Roebling
-// RCS_ID:      $Id$
+// RCS_ID:      $Id: imaglist.cpp 39957 2006-07-03 19:02:54Z ABX $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

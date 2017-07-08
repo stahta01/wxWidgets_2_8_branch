@@ -4,7 +4,7 @@
 // Author:      William Osborne - minimal working wxPalmOS port
 // Modified by:
 // Created:     10/14/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: font.cpp 43545 2006-11-20 16:21:08Z VS $
 // Copyright:   (c) wxWidgets team
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Ryan Norton
 // Modified by: Hiroyuki Nakamura(maloninc)
 // Created:     2006-01-10
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dirdlg.mm 40007 2006-07-05 13:10:46Z SC $
 // Copyright:   (c) Ryan Norton
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -2,7 +2,7 @@
 // Name:        src/gtk/pen.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: pen.cpp 39724 2006-06-14 17:09:39Z ABX $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

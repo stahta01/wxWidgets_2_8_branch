@@ -4,7 +4,7 @@
 // Author:      Francesco Montorsi
 // Modified by:
 // Created:     20/4/2006
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: colourcmn.cpp 41538 2006-09-30 20:45:15Z RR $
 // Copyright:   (c) Francesco Montorsi
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

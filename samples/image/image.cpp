@@ -4,7 +4,7 @@
 // Author:      Robert Roebling
 // Modified by:
 // Created:     1998
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: image.cpp 43832 2006-12-06 17:13:11Z VZ $
 // Copyright:   (c) 1998-2005 Robert Roebling
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

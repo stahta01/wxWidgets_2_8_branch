@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by: ABX (2004) - adjustements for conditional building + new menu
 // Created:     04/01/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dialogs.cpp 43016 2006-11-04 10:57:24Z VZ $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

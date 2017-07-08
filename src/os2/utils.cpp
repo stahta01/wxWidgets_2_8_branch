@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     09/17/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utils.cpp 54228 2008-06-15 11:22:52Z VZ $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

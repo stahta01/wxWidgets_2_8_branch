@@ -4,7 +4,7 @@
 // Author:      Brian Victor, Vadim Zeitlin
 // Modified by:
 // Created:     12/05/02
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: displayx11.cpp 50143 2007-11-22 02:52:10Z PC $
 // Copyright:   (c) wxWidgets team
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

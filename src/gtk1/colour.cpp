@@ -2,7 +2,7 @@
 // Name:        src/gtk1/colour.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: colour.cpp 41123 2006-09-10 02:00:24Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

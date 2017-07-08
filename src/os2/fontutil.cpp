@@ -4,7 +4,7 @@
 // Author:      Modified by David Webster for OS/2
 // Modified by:
 // Created:     01.03.00
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fontutil.cpp 51287 2008-01-19 14:10:36Z SN $
 // Copyright:   (c) 1999 Vadim Zeitlin <zeitlin@dptmaths.ens-cachan.fr>
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

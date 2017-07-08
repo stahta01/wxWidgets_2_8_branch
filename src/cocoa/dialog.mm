@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2002/12/15
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dialog.mm 47995 2007-08-10 04:47:49Z DE $
 // Copyright:   2002 David Elliott
 // Licence:     wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

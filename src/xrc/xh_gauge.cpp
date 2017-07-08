@@ -3,7 +3,7 @@
 // Purpose:     XRC resource for wxGauge
 // Author:      Bob Mitchell
 // Created:     2000/03/21
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_gauge.cpp 39607 2006-06-06 22:02:01Z ABX $
 // Copyright:   (c) 2000 Bob Mitchell and Verant Interactive
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

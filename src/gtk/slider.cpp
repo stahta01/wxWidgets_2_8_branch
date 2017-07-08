@@ -2,7 +2,7 @@
 // Name:        src/gtk/slider.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: slider.cpp 44603 2007-03-03 18:37:08Z PC $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

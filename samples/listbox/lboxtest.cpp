@@ -2,7 +2,7 @@
 // Name:        lboxtest.cpp
 // Purpose:     wxListBox sample
 // Author:      Vadim Zeitlin
-// Id:          $Id$
+// Id:          $Id: lboxtest.cpp 41547 2006-10-02 05:36:31Z PC $
 // Copyright:   (c) 2000 Vadim Zeitlin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

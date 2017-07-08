@@ -4,7 +4,7 @@
 // Author:      Mattia Barbon
 // Modified by:
 // Created:     01.11.02
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: evtloop.cpp 50982 2008-01-01 20:38:33Z VZ $
 // Copyright:   (c) 2002 Mattia Barbon
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

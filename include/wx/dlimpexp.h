@@ -4,7 +4,7 @@
  * Author:      Vadim Zeitlin
  * Modified by:
  * Created:     16.10.2003 (extracted from wx/defs.h)
- * RCS-ID:      $Id$
+ * RCS-ID:      $Id: dlimpexp.h 49563 2007-10-31 20:46:21Z VZ $
  * Copyright:   (c) 2003 Vadim Zeitlin <vadim@wxwidgets.org>
  * Licence:     wxWindows licence
  */

@@ -2,7 +2,7 @@
 // Name:        src/gtk1/toplevel.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: toplevel.cpp 39348 2006-05-26 16:12:31Z PC $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

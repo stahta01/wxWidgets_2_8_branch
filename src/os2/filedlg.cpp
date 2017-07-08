@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     10/05/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: filedlg.cpp 39651 2006-06-09 17:50:46Z ABX $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

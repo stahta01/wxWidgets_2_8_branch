@@ -3,7 +3,7 @@
 // Purpose:     wxRegion class
 // Author:      Vaclav Slavik
 // Created:     2001/03/12
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: region.h 43286 2006-11-10 19:58:43Z ABX $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

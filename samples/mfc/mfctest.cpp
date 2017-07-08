@@ -2,7 +2,7 @@
 // Name:        mfctest.cpp
 // Purpose:     Sample to demonstrate mixing MFC and wxWidgets code
 // Author:      Julian Smart
-// Id:          $Id$
+// Id:          $Id: mfctest.cpp 53058 2008-04-06 16:01:01Z VZ $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

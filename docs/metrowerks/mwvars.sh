@@ -1,6 +1,6 @@
 # File:     mwvars.sh
 # Author:   David Elliott
-# Id:       $Id$
+# Id:       $Id: mwvars.sh 33089 2005-03-27 09:28:39Z DE $
 CWINSTALL="/Applications/Metrowerks CodeWarrior 8.0/Metrowerks CodeWarrior"
 if ! test -d "$CWINSTALL"; then
     CWINSTALL="$HOME/Applications/Metrowerks CodeWarrior 8.0/Metrowerks CodeWarrior"

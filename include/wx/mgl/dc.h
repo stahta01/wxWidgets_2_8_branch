@@ -3,7 +3,7 @@
 // Purpose:     wxDC class
 // Author:      Vaclav Slavik
 // Created:     2001/03/09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dc.h 42641 2006-10-29 18:09:42Z RR $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

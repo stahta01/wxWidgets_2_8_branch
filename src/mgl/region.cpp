@@ -2,7 +2,7 @@
 // Name:      src/mgl/region.cpp
 // Purpose:   Region handling for wxWidgets/MGL
 // Author:    Vaclav Slavik
-// RCS-ID:    $Id$
+// RCS-ID:    $Id: region.cpp 43286 2006-11-10 19:58:43Z ABX $
 // Copyright: (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:   wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

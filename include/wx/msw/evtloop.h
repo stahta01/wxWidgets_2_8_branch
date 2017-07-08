@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     2004-07-31
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: evtloop.h 36881 2006-01-15 10:13:40Z ABX $
 // Copyright:   (c) 2003-2004 Vadim Zeitlin <vadim@wxwindows.org>
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

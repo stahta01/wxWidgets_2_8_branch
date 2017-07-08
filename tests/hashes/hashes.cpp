@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin, Mattia Barbon
 // Modified:    Mike Wetherell
 // Created:     2004-05-16
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: hashes.cpp 36216 2005-11-20 21:55:35Z DS $
 // Copyright:   (c) 2004 Vadim Zeitlin, Mattia Barbon, 2005 M. Wetherell
 ///////////////////////////////////////////////////////////////////////////////
 

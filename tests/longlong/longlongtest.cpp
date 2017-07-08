@@ -3,7 +3,7 @@
 // Purpose:     wxLongLong unit test
 // Author:      Vadim Zeitlin, Wlodzimierz ABX Skiba
 // Created:     2004-04-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: longlongtest.cpp 37596 2006-02-15 12:59:37Z MW $
 // Copyright:   (c) 2004 Vadim Zeitlin, Wlodzimierz Skiba
 ///////////////////////////////////////////////////////////////////////////////
 

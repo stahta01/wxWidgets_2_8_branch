@@ -4,7 +4,7 @@
 // Purpose:     Shows wxColourPickerCtrl
 // Author:      Francesco Montorsi
 // Created:     20/6/2006
-// Id:          $Id$
+// Id:          $Id: clrpicker.cpp 43755 2006-12-03 13:43:44Z VZ $
 // Copyright:   (c) 2006 Francesco Montorsi
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

@@ -2,7 +2,7 @@
 // Name:        tests/scopeguard/scopeguardtest.cpp
 // Purpose:     Test wxScopeGuard and related macros
 // Author:      Vadim Zeitlin
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: scopeguardtest.cpp 34684 2005-06-16 23:47:30Z VZ $
 // Copyright:   (c) 2005 Vadim Zeitlin
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

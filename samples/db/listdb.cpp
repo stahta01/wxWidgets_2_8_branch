@@ -4,7 +4,7 @@
 // Author:      George Tasker/Doug Card
 // Modified by:
 // Created:     1996
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: listdb.cpp 40587 2006-08-13 01:17:53Z VZ $
 // Copyright:   (c) 1996 Remstar International, Inc.
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

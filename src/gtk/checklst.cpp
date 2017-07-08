@@ -3,7 +3,7 @@
 // Purpose:
 // Author:      Robert Roebling
 // Modified by: Ryan Norton (Native GTK2.0+ checklist)
-// Id:          $Id$
+// Id:          $Id: checklst.cpp 42469 2006-10-26 20:29:02Z RR $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

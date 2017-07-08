@@ -3,7 +3,7 @@
 // Purpose:     XRC resource for wxStatusBar
 // Author:      Brian Ravnsgaard Riis
 // Created:     2004/01/21
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_statbar.cpp 48617 2007-09-09 21:32:44Z VZ $
 // Copyright:   (c) 2004 Brian Ravnsgaard Riis
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

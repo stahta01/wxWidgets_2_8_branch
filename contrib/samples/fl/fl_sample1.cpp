@@ -4,7 +4,7 @@
 // Author:      Aleksandras Gluchovas
 // Modified by: Sebastian Haase (June 21, 2001)
 // Created:     24/11/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fl_sample1.cpp 38477 2006-03-31 18:07:22Z ABX $
 // Copyright:   (c) Aleksandras Gluchovas
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

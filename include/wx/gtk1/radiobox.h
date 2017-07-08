@@ -2,7 +2,7 @@
 // Name:        wx/gtk1/radiobox.h
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: radiobox.h 38319 2006-03-23 22:05:23Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

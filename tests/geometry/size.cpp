@@ -3,7 +3,7 @@
 // Purpose:     wxSize unit test
 // Author:      Wlodzimierz ABX Skiba
 // Created:     2004-12-14
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: size.cpp 31008 2004-12-14 20:29:21Z ABX $
 // Copyright:   (c) 2004 wxWindows
 ///////////////////////////////////////////////////////////////////////////////
 

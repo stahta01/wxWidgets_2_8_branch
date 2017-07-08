@@ -4,7 +4,7 @@
 // Author:      Stefan Csomor (lifted from dnd.h)
 // Modified by:
 // Created:     10/21/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dataform.h 46150 2007-05-21 20:26:40Z SC $
 // Copyright:   (c) 1999 Stefan Csomor
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

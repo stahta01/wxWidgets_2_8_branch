@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2004/04/08
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: NSTabView.mm 48107 2007-08-15 16:12:45Z DE $
 // Copyright:   (c) 2004 David Elliott
 // Licence:     wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

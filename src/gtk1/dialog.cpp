@@ -2,7 +2,7 @@
 // Name:        src/gtk1/dialog.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: dialog.cpp 44074 2006-12-29 20:16:53Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

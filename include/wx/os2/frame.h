@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     10/27/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: frame.h 56457 2008-10-20 06:55:43Z SN $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

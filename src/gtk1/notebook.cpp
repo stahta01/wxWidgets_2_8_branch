@@ -2,7 +2,7 @@
 // Name:        src/gtk1/notebook.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: notebook.cpp 50855 2007-12-20 10:51:33Z JS $
 // Copyright:   (c) 1998 Robert Roebling, Vadim Zeitlin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

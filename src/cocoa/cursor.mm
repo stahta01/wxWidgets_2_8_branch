@@ -5,7 +5,7 @@
 //              David Elliott
 // Modified by:
 // Created:     2004-10-05
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: cursor.mm 47839 2007-08-01 04:29:40Z DE $
 // Copyright:   (c) Ryan Norton
 //              2007, Software 2000 Ltd.
 // Licence:     wxWidgets licence

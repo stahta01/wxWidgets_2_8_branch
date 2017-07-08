@@ -3,7 +3,7 @@
 // Purpose:     wxWidgets power management sample
 // Author:      Vadim Zeitlin
 // Created:     2006-05-27
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: power.cpp 39360 2006-05-27 14:29:30Z VZ $
 // Copyright:   (C) 2006 Vadim Zeitlin <vadim@wxwindows.org>
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

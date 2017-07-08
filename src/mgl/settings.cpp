@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 // Name:        src/mgl/settings.cpp
 // Author:      Vaclav Slavik, Robert Roebling
-// Id:          $Id$
+// Id:          $Id: settings.cpp 40998 2006-09-04 15:22:04Z VS $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

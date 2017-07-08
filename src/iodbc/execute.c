@@ -1,7 +1,7 @@
 /*
  *  execute.c
  *
- *  $Id$
+ *  $Id: execute.c 2613 1999-06-01 15:32:12Z VZ $
  *
  *  Invoke a query
  *

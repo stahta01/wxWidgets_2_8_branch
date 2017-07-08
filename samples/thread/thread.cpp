@@ -4,7 +4,7 @@
 // Author:      Guilhem Lavaux, Vadim Zeitlin
 // Modified by:
 // Created:     06/16/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: thread.cpp 41547 2006-10-02 05:36:31Z PC $
 // Copyright:   (c) 1998-2002 wxWidgets team
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

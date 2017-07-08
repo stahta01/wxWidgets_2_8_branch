@@ -6,7 +6,7 @@
 // Author:      Aleksandras Gluchovas
 // Modified by: AG on 28/12/98
 // Created:     22/09/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: srcparser.h 41718 2006-10-08 14:34:37Z VZ $
 // Copyright:   (c) Aleskandars Gluchovas
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Purpose:     Part of the widgets sample showing wxHyperlinkCtrl
 // Author:      Dimitri Schoolwerth, Vadim Zeitlin
 // Created:     27 Sep 2003
-// Id:          $Id$
+// Id:          $Id: hyperlnk.cpp 43755 2006-12-03 13:43:44Z VZ $
 // Copyright:   (c) 2003 wxWindows team
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

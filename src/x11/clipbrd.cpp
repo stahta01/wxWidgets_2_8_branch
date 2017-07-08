@@ -3,7 +3,7 @@
 // Purpose:     Clipboard functionality
 // Author:      Robert Roebling
 // Created:
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: clipbrd.cpp 56402 2008-10-17 13:45:34Z VZ $
 // Copyright:   (c) Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

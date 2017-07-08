@@ -4,7 +4,7 @@
 // Author:      William Osborne - minimal working wxPalmOS port
 // Modified by: Wlodzimierz ABX Skiba - transition from faked drawing to native statusbar
 // Created:     10/13/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: statbrpalm.cpp 38920 2006-04-26 08:21:31Z ABX $
 // Copyright:   (c) William Osborne, Wlodzimierz Skiba
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

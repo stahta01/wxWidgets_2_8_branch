@@ -5,7 +5,7 @@
 // Author:      David Webster (adapted from msw version by Vadim Zeitlin)
 // Modified by:
 // Created:     20.11.99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: gdiimage.h 42273 2006-10-23 11:58:28Z ABX $
 // Copyright:   (c) 1999 David Webster
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

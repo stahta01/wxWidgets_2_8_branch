@@ -2,7 +2,7 @@
 // Name:        src/gtk/dirdlg.cpp
 // Purpose:     native implementation of wxDirDialog
 // Author:      Robert Roebling, Zbigniew Zagorski, Mart Raudsepp, Francesco Montorsi
-// Id:          $Id$
+// Id:          $Id: dirdlg.cpp 63600 2010-03-02 00:15:45Z VZ $
 // Copyright:   (c) 1998 Robert Roebling, 2004 Zbigniew Zagorski, 2005 Mart Raudsepp
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

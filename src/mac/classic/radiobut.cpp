@@ -4,7 +4,7 @@
 // Author:      AUTHOR
 // Modified by: JS Lair (99/11/15) adding the cyclic groupe notion for radiobox
 // Created:     ??/??/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: radiobut.cpp 38790 2006-04-18 09:05:00Z ABX $
 // Copyright:   (c) AUTHOR
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

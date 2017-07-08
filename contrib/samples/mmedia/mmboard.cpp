@@ -4,7 +4,7 @@
 // Author:      Guilhem Lavaux (created from minimal by J. Smart)
 // Modified by:
 // Created:     13/02/2000
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: mmboard.cpp 43163 2006-11-07 15:32:27Z VZ $
 // Copyright:   (c) Guilhem Lavaux
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -2,7 +2,7 @@
 // Name:        src/gtk1/clipbrd.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: clipbrd.cpp 44193 2007-01-11 01:34:08Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by: Jurgen Doornik
 // Created:     25/01/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: server.cpp 36266 2005-11-27 14:03:36Z VZ $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

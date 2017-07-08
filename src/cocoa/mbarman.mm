@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/09/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: mbarman.mm 49241 2007-10-19 05:39:18Z DE $
 // Copyright:   (c) 2003 David Elliott
 // Licence:     wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

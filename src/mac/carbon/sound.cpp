@@ -4,7 +4,7 @@
 // Author:      Ryan Norton
 // Modified by: Stefan Csomor
 // Created:     1998-01-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: sound.cpp 62181 2009-09-28 08:12:24Z JS $
 // Copyright:   (c) Ryan Norton
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -3,7 +3,7 @@
 // Purpose:     wxURI unit test
 // Author:      Ryan Norton
 // Created:     2004-08-14
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: uris.cpp 53910 2008-06-01 19:16:15Z VZ $
 // Copyright:   (c) 2004 Ryan Norton
 ///////////////////////////////////////////////////////////////////////////////
 

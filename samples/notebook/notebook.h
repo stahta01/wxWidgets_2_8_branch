@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by: Dimitri Schoolwerth
 // Created:     25/10/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: notebook.h 43049 2006-11-04 18:24:07Z RR $
 // Copyright:   (c) 1998-2002 wxWidgets team
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

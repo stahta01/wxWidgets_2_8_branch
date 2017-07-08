@@ -26,4 +26,4 @@ tn0022.txt   Working with the the wxWidgets release system
 tn0023.txt   Adding a new app/screenshot to the wxWidgets.org front page
 
 
-Version: $Id$
+Version: $Id: index.txt 40543 2006-08-10 04:05:50Z KO $

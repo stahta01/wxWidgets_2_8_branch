@@ -4,7 +4,7 @@
 // Author:      William Osborne - minimal working wxPalmOS port
 // Modified by:
 // Created:     10/07/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: main.cpp 38945 2006-04-28 12:44:37Z ABX $
 // Copyright:   (c) William Osborne
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

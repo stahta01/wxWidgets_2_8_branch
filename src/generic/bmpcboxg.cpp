@@ -4,7 +4,7 @@
 // Author:      Jaakko Salli
 // Modified by:
 // Created:     Aug-31-2006
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: bmpcboxg.cpp 44665 2007-03-07 23:29:03Z VZ $
 // Copyright:   (c) 2005 Jaakko Salli
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

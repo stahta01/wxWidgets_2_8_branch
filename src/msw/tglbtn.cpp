@@ -6,7 +6,7 @@
 //              and William Gallafent.
 // Modified by:
 // Created:     08.02.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: tglbtn.cpp 41632 2006-10-04 23:02:13Z VZ $
 // Copyright:   (c) 2000 Johnny C. Norris II
 // License:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

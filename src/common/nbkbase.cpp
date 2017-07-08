@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     02.07.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: nbkbase.cpp 41764 2006-10-08 23:41:52Z VZ $
 // Copyright:   (c) 2001 Vadim Zeitlin
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

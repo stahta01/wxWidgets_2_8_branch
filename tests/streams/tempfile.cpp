@@ -2,7 +2,7 @@
 // Name:        tests/streams/tempfile.cpp
 // Purpose:     Test wxTempFileOutputStream
 // Author:      Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: tempfile.cpp 32796 2005-03-13 16:20:51Z MW $
 // Copyright:   (c) 2005 Mike Wetherell
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

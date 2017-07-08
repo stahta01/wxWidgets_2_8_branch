@@ -4,7 +4,7 @@
 // Purpose:     Shows wxSearchCtrl
 // Author:      Robin Dunn
 // Created:     9-Dec-2006
-// Id:          $Id$
+// Id:          $Id: searchctrl.cpp 43924 2006-12-11 13:48:18Z VZ $
 // Copyright:   (c) 2006 
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

@@ -2,7 +2,7 @@
 // Name:        src/gtk1/textctrl.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: textctrl.cpp 41739 2006-10-08 17:46:12Z VZ $
 // Copyright:   (c) 1998 Robert Roebling, Vadim Zeitlin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

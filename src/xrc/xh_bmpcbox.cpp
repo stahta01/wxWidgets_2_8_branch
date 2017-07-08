@@ -3,7 +3,7 @@
 // Purpose:     XRC resource for wxBitmapComboBox
 // Author:      Jaakko Salli
 // Created:     Sep-10-2006
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_bmpcbox.cpp 55963 2008-09-29 19:52:58Z VS $
 // Copyright:   (c) 2006 Jaakko Salli
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

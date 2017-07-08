@@ -4,7 +4,7 @@
 // Author:      Sandro Sigala
 // Modified by:
 // Created:     2005-11-10
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dxfrenderer.cpp 43272 2006-11-10 15:16:02Z VZ $
 // Copyright:   (c) Sandro Sigala
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

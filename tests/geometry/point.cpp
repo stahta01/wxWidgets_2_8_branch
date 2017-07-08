@@ -3,7 +3,7 @@
 // Purpose:     wxPoint unit test
 // Author:      Wlodzimierz ABX Skiba
 // Created:     2004-12-14
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: point.cpp 32219 2005-02-19 22:48:26Z VZ $
 // Copyright:   (c) 2004 wxWindows
 ///////////////////////////////////////////////////////////////////////////////
 

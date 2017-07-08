@@ -2,7 +2,7 @@
 // Name:        src/gtk1/popupwin.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: popupwin.cpp 39264 2006-05-22 07:11:26Z ABX $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

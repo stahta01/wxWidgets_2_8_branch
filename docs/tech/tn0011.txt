@@ -34,7 +34,7 @@
 
 === EOF ===
 
-Version: $Id$
+Version: $Id: tn0011.txt 58872 2009-02-13 09:18:23Z CE $
 
 $Log$
 Revision 1.10.2.3  2007/03/15 14:55:02  CE

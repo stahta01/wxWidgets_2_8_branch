@@ -3,7 +3,7 @@
 // Author:      Vaclav Slavik
 // Purpose:     wxFont declaration
 // Created:     2006-08-08
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: font.h 43550 2006-11-20 20:45:57Z VS $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

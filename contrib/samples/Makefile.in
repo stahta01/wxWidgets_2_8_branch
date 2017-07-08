@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.in 29320 2004-09-24 15:36:11Z VS $
 
 CONTRIB_SAMPLES=fl gizmos mmedia ogl plot stc svg deprecated #applet net
 

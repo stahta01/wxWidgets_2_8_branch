@@ -5,7 +5,7 @@
 // Modified by: ABX - 19/12/2004 : possibility of horizontal orientation
 //                               : wxWidgets coding standards
 // Created:     18/06/2004
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: foldtestpanel.h 35650 2005-09-23 12:56:45Z MR $
 // Copyright:   (c) Jorgen Bodde
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

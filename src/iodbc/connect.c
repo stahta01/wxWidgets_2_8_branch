@@ -1,7 +1,7 @@
 /*
  *  connect.c
  *
- *  $Id$
+ *  $Id: connect.c 5545 2000-01-20 13:19:20Z GT $
  *
  *  Connect (load) driver
  *

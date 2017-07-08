@@ -3,7 +3,7 @@
 // Purpose:     wxFontEnumerator class
 // Author:      Vaclav Slavik
 // Created:     2006-08-10
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fontenum.cpp 43727 2006-12-01 10:14:28Z VS $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

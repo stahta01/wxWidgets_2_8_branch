@@ -3,7 +3,7 @@
 // Purpose:     font management for wxMGL
 // Author:      Vaclav Slavik
 // Created:     2006-11-18
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fontmgr.cpp 43598 2006-07-25 06:48:03Z ABX $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 //              (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence

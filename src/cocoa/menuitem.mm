@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2002/12/15
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: menuitem.mm 48107 2007-08-15 16:12:45Z DE $
 // Copyright:   2002-2004 David Elliott
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

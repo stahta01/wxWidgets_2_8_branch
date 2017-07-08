@@ -3,7 +3,7 @@
 // Purpose:     wxBitmap implementation
 // Author:      Vaclav Slavik
 // Created:     2006-08-04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: bitmap.cpp 42883 2006-11-01 01:55:44Z VZ $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

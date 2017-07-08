@@ -6,7 +6,7 @@
 // Created:     19990929
 // Copyright:   (c)
 // Licence:     wxWindows license
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dbgrid.cpp 35650 2005-09-23 12:56:45Z MR $
 //----------------------------------------------------------------------------------------
 
 // For compilers that support precompilation, includes "wx/wx.h".

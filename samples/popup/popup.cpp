@@ -4,7 +4,7 @@
 // Author:      Robert Roebling
 // Modified by:
 // Created:     2005-02-04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: popup.cpp 41547 2006-10-02 05:36:31Z PC $
 // Copyright:   (c) 2005 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

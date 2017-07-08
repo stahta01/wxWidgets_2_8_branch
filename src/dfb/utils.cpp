@@ -3,7 +3,7 @@
 // Purpose:     Miscellaneous utility functions and classes
 // Author:      Vaclav Slavik
 // Created:     2006-08-08
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utils.cpp 41154 2006-09-11 09:08:57Z VS $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

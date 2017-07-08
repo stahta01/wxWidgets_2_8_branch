@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/08/02 (stubs from 22.03.2003)
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: pen.h 47415 2007-07-13 03:06:22Z DE $
 // Copyright:   (c) 2003 David Elliott
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

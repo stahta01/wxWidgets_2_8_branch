@@ -2,7 +2,7 @@
 // Name:        treeentry_gtk.h
 // Purpose:     GtkTreeEntry - a string/userdata combo for use with treeview
 // Author:      Ryan Norton
-// Id:          $Id$
+// Id:          $Id: treeentry_gtk.h 37769 2006-03-01 21:51:42Z RR $
 // Copyright:   (c) 2006 Ryan Norton
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////// */

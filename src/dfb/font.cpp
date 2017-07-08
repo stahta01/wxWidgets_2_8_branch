@@ -3,7 +3,7 @@
 // Purpose:     wxFont implementation
 // Author:      Vaclav Slavik
 // Created:     2006-08-08
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: font.cpp 43547 2006-11-20 16:43:55Z VS $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

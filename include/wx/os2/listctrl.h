@@ -4,7 +4,7 @@
 // Author:      
 // Modified by:
 // Created:     
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: listctrl.h 37982 2006-03-10 21:26:59Z RD $
 // Copyright:   (c) wxWidgets team
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

@@ -3,7 +3,7 @@
 // Purpose:     wxGtkString class declaration
 // Author:      Vadim Zeitlin
 // Created:     2006-10-19
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: string.h 42120 2006-10-19 14:42:01Z VZ $
 // Copyright:   (c) 2006 Vadim Zeitlin <vadim@wxwindows.org>
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

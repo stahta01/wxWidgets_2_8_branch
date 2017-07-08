@@ -2,7 +2,7 @@
 // Name:        src/unix/utilsunx.cpp
 // Purpose:     generic Unix implementation of many wx functions
 // Author:      Vadim Zeitlin
-// Id:          $Id$
+// Id:          $Id: utilsunx.cpp 49239 2007-10-19 03:10:31Z DE $
 // Copyright:   (c) 1998 Robert Roebling, Vadim Zeitlin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

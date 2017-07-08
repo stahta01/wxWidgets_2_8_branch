@@ -4,7 +4,7 @@
 // Author:      Guilhem Lavaux
 // Modified by: Ryan Norton
 // Created:     20/07/1997
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: url.h 41263 2006-09-17 10:59:18Z RR $
 // Copyright:   (c) 1997, 1998 Guilhem Lavaux
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

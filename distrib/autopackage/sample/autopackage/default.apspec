@@ -1,6 +1,6 @@
 # -*-shell-script-*-
 
-# RCS-ID:  $Id$
+# RCS-ID:  $Id: default.apspec 42250 2006-10-22 20:43:01Z VZ $
 # Author:  Francesco Montorsi <frm@users.sourceforge.net>
 # Purpose: A minimal Autopackage SPEC file which can be used as template
 #          for creating autopackages of wxWidgets-based applications.

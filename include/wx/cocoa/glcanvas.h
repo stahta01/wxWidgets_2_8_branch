@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2004/09/29
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: glcanvas.h 42987 2006-11-03 19:22:38Z VZ $
 // Copyright:   (c) 2004 David Elliott
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

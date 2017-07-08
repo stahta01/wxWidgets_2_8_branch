@@ -3,7 +3,7 @@
 // Purpose:     wxList unit test
 // Author:      Vadim Zeitlin, Mattia Barbon
 // Created:     2004-12-08
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: lists.cpp 36216 2005-11-20 21:55:35Z DS $
 // Copyright:   (c) 2004 Vadim Zeitlin, Mattia Barbon
 ///////////////////////////////////////////////////////////////////////////////
 

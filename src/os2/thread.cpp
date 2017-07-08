@@ -4,7 +4,7 @@
 // Author:      Original from Wolfram Gloger/Guilhem Lavaux/David Webster
 // Modified by: Stefan Neis
 // Created:     04/22/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: thread.cpp 40943 2006-08-31 19:31:43Z ABX $
 // Copyright:   (c) Stefan Neis (2003)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Stefan Csomor
 // Modified by: David Elliott
 // Created:     1998-01-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: utilsexc.cpp 38920 2006-04-26 08:21:31Z ABX $
 // Copyright:   (c) Stefan Csomor
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

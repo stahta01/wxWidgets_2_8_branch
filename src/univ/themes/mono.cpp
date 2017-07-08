@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     2006-08-27
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: mono.cpp 54496 2008-07-05 18:25:33Z SN $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Purpose:     Part of the widgets sample showing wxGenericDirCtrl
 // Author:      Wlodzimierz 'ABX' Skiba
 // Created:     4 Oct 2006
-// Id:          $Id$
+// Id:          $Id: dirctrl.cpp 43755 2006-12-03 13:43:44Z VZ $
 // Copyright:   (c) 2006 wxWindows team
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

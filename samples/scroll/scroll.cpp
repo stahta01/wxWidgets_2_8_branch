@@ -4,7 +4,7 @@
 // Author:      Robert Roebling
 // Modified by:
 // Created:
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: scroll.cpp 41547 2006-10-02 05:36:31Z PC $
 // Copyright:   (C) 1998 Robert Roebling, 2002 Ron Lee, 2003 Matt Gregory
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

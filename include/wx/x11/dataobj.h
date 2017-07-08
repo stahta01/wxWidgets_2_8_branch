@@ -2,7 +2,7 @@
 // Name:        wx/motif/dataobj.h
 // Purpose:     declaration of the wxDataObject class for Motif
 // Author:      Julian Smart
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dataobj.h 41020 2006-09-05 20:47:48Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

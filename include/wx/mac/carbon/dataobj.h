@@ -4,7 +4,7 @@
 // Author:      Stefan Csomor (adapted from Robert Roebling's gtk port)
 // Modified by:
 // Created:     10/21/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dataobj.h 46131 2007-05-20 17:37:08Z SC $
 // Copyright:   (c) 1998, 1999 Vadim Zeitlin, Robert Roebling
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

@@ -2,7 +2,7 @@
 // Name:        src/gtk1/app.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: app.cpp 43318 2006-11-11 20:38:46Z RD $
 // Copyright:   (c) 1998 Robert Roebling, Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

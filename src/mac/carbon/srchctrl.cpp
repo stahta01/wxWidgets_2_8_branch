@@ -3,7 +3,7 @@
 // Purpose:     implements mac carbon wxSearchCtrl
 // Author:      Vince Harron
 // Created:     2006-02-19
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: srchctrl.cpp 44257 2007-01-19 05:27:16Z RD $
 // Copyright:   Vince Harron
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

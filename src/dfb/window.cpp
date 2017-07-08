@@ -4,7 +4,7 @@
 // Author:      Vaclav Slavik
 //              (based on GTK, MSW, MGL implementations)
 // Created:     2006-80-10
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: window.cpp 54750 2008-07-21 17:05:14Z VZ $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Wlodzimierz ABX Skiba
 // Modified by:
 // Created:     28.05.2004
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: menuce.cpp 40978 2006-09-03 12:23:04Z RR $
 // Copyright:   (c) Wlodzimierz Skiba
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

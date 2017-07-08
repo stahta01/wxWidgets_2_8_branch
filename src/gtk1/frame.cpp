@@ -2,7 +2,7 @@
 // Name:        src/gtk1/frame.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: frame.cpp 39646 2006-06-09 09:51:39Z ABX $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

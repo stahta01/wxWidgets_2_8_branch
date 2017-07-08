@@ -3,7 +3,7 @@
 // Purpose:     wxConvAuto unit test
 // Author:      Vadim Zeitlin
 // Created:     2006-04-04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: convautotest.cpp 38571 2006-04-05 14:38:42Z VZ $
 // Copyright:   (c) 2006 Vadim Zeitlin
 ///////////////////////////////////////////////////////////////////////////////
 

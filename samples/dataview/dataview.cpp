@@ -4,7 +4,7 @@
 // Author:      Robert Roebling
 // Modified by:
 // Created:     06/01/06
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dataview.cpp 41659 2006-10-06 09:50:45Z RR $
 // Copyright:   (c) Robert Roebling
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

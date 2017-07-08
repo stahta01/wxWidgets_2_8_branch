@@ -4,7 +4,7 @@
 // Author:      AUTHOR
 // Modified by:
 // Created:     ??/??/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: data.cpp 27408 2004-05-23 20:53:33Z JS $
 // Copyright:   (c) AUTHOR
 // Licence:   	wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -3,7 +3,7 @@
 # Name:        regex.pl
 # Purpose:     Generate test code for wxRegEx from 'reg.test'
 # Author:      Mike Wetherell
-# RCS-ID:      $Id$
+# RCS-ID:      $Id: regex.pl 34815 2005-07-04 12:25:56Z MW $
 # Copyright:   (c) Mike Wetherell
 # Licence:     wxWidgets licence
 #############################################################################

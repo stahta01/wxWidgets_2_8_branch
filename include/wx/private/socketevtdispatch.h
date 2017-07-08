@@ -5,7 +5,7 @@
 // Modified by:
 // Created:     August 2006
 // Copyright:   (c) Angel Vidal
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: socketevtdispatch.h 43976 2006-12-14 14:13:57Z VS $
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
 

@@ -3,7 +3,7 @@
 // Purpose:     XML resource handler for wxListCtrl
 // Author:      Brian Gavin
 // Created:     2000/09/09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_listc.h 41590 2006-10-03 14:53:40Z VZ $
 // Copyright:   (c) 2000 Brian Gavin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

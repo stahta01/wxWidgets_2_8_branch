@@ -2,7 +2,7 @@
 // Name:        src/gtk/menu.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: menu.cpp 56616 2008-10-31 05:25:59Z PC $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

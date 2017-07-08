@@ -2,7 +2,7 @@
 // Name:        tests/streams/filestream.cpp
 // Purpose:     Test wxFileInputStream/wxFileOutputStream
 // Author:      Hans Van Leemputten
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: filestream.cpp 30685 2004-11-22 05:00:19Z RN $
 // Copyright:   (c) 2004 Hans Van Leemputten
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

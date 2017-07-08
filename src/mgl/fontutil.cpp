@@ -3,7 +3,7 @@
 // Purpose:     Font helper functions for MGL
 // Author:      Vaclav Slavik
 // Created:     2001/04/29
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: fontutil.cpp 43550 2006-11-20 20:45:57Z VS $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

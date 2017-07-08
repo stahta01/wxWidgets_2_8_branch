@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     2003-09-17
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: except.cpp 34436 2005-05-31 09:20:43Z JS $
 // Copyright:   (c) 2003-2005 Vadim Zeitlin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

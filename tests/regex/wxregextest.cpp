@@ -2,7 +2,7 @@
 // Name:        tests/regex/wxregex.cpp
 // Purpose:     Test wxRegEx
 // Author:      Vadim Zeitlin, Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: wxregextest.cpp 33401 2005-04-07 01:29:40Z MW $
 // Copyright:   Vadim Zeitlin, Mike Wetherell
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

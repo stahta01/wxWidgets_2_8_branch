@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     06/30/02
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: toolbar.cpp 43350 2006-11-12 16:06:07Z SN $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -2,7 +2,7 @@
 // Name:        src/mgl/pen.cpp
 // Purpose:
 // Author:      Vaclav Slavik
-// Id:          $Id$
+// Id:          $Id: pen.cpp 43002 2006-11-03 23:34:24Z VZ $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

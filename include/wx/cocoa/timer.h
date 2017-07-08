@@ -2,7 +2,7 @@
 // Name:        timer.h
 // Purpose:     Cocoa wxTimer class
 // Author:      Ryan Norton
-// Id:          $Id$
+// Id:          $Id: timer.h 41020 2006-09-05 20:47:48Z VZ $
 // Copyright:   (c) Ryan Norton
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

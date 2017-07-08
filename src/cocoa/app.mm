@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2002/11/27
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: app.mm 49438 2007-10-25 18:01:36Z DE $
 // Copyright:   (c) David Elliott
 //              Software 2000 Ltd.
 // Licence:     wxWidgets licence

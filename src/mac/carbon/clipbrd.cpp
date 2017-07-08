@@ -5,7 +5,7 @@
 //              Generalized clipboard implementation by Matthew Flatt
 // Modified by:
 // Created:     1998-01-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: clipbrd.cpp 46161 2007-05-22 06:02:49Z SC $
 // Copyright:   (c) Stefan Csomor
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -3,7 +3,7 @@
 // Purpose:     XRC resource for wxCheckListBox
 // Author:      Bob Mitchell
 // Created:     2000/03/21
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: xh_chckl.cpp 42258 2006-10-22 22:12:32Z VZ $
 // Copyright:   (c) 2000 Bob Mitchell and Verant Interactive
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

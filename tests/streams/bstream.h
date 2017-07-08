@@ -2,7 +2,7 @@
 // Name:        tests/streams/bstream.h
 // Purpose:     Template class for testing base stream functions.
 // Author:      Hans Van Leemputten
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: bstream.h 30731 2004-11-23 14:26:10Z RN $
 // Copyright:   (c) 2004 Hans Van Leemputten
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

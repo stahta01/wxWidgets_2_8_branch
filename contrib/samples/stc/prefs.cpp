@@ -3,7 +3,7 @@
 // Purpose:     STC test Preferences initialization
 // Maintainer:  Wyo
 // Created:     2003-09-01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: prefs.cpp 37440 2006-02-10 11:59:52Z ABX $
 // Copyright:   (c) wxGuide
 // Licence:     wxWindows licence
 //////////////////////////////////////////////////////////////////////////////

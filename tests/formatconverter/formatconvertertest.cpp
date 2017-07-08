@@ -2,7 +2,7 @@
 // Name:        tests/formatconverter/formatconverter.cpp
 // Purpose:     Test wxFormatConverter
 // Author:      Mike Wetherell
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: formatconvertertest.cpp 30685 2004-11-22 05:00:19Z RN $
 // Copyright:   (c) 2004 Mike Wetherell
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

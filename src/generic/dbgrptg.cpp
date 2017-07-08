@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin, Andrej Putrin
 // Modified by:
 // Created:     2005-01-21
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dbgrptg.cpp 61631 2009-08-09 15:55:56Z JS $
 // Copyright:   (c) 2005 Vadim Zeitlin <zeitlin@dptmaths.ens-cachan.fr>
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

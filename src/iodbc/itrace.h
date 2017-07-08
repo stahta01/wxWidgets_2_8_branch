@@ -1,7 +1,7 @@
 /*
  *  itrace.h
  *
- *  $Id$
+ *  $Id: itrace.h 1446 1999-01-22 10:52:42Z RR $
  *
  *  Trace functions
  *

@@ -6,7 +6,7 @@
 // Created:     19991105
 // Copyright:   (c) Mark Johnson
 // Licence:     wxWindows license
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dlguser.cpp 44499 2007-02-13 23:22:24Z VZ $
 //----------------------------------------------------------------------------------------
 
 // For compilers that support precompilation, includes "wx/wx.h".

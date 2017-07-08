@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by:
 // Created:     24.09.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: toplevel.cpp 39701 2006-06-13 20:44:51Z ABX $
 // Copyright:   (c) 2002 Julian Smart
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

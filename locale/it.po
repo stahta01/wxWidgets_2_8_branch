@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: $Id$\n"
+"Project-Id-Version: $Id: it.po 53333 2008-04-24 07:58:37Z VS $\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-24 09:56+0200\n"
 "PO-Revision-Date: 2006-10-30 20:46+0100\n"

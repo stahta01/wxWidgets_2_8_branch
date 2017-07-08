@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2004/01/26
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: NSApplication.h 47445 2007-07-13 21:49:41Z DE $
 // Copyright:   (c) 2003,2004 David Elliott
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

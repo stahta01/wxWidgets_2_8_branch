@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/07/19
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: bitmap.h 47992 2007-08-09 19:08:30Z DE $
 // Copyright:   (c) 2003 David Elliott
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

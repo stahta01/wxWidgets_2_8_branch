@@ -7,7 +7,7 @@
 // Author:      Matt Kimball
 // Modified by:
 // Created:     7/15/2001
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dynsash_switch.cpp 37440 2006-02-10 11:59:52Z ABX $
 // Copyright:   (c) 2001 Matt Kimball
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     07.04.02
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: keyboard.cpp 53395 2008-04-28 11:09:33Z VS $
 // Copyright:   (c) 2002 Vadim Zeitlin
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

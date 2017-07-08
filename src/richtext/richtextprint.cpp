@@ -3,7 +3,7 @@
 // Purpose:     Rich text printing classes
 // Author:      Julian Smart
 // Created:     2006-10-24
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: richtextprint.cpp 43603 2006-11-22 17:11:53Z JS $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

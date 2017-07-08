@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     09/17/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: control.cpp 40145 2006-07-16 21:26:04Z SN $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

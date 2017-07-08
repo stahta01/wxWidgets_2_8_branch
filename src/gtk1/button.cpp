@@ -2,7 +2,7 @@
 // Name:        src/gtk1/button.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: button.cpp 40311 2006-07-25 06:50:19Z ABX $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

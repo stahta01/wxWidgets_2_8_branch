@@ -12,7 +12,7 @@ USERC("svg.rc");
 // Purpose:     SVG sample
 // Author:      Chris Elliott
 // Modified by:
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: svgtest.cpp 39402 2006-05-28 23:32:12Z VZ $
 // Licence:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////
 

@@ -4,7 +4,7 @@
 // Author:      Ryan Norton
 // Modified by:
 // Created:     31.01.99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: tooltip.h 35698 2005-09-25 20:49:40Z MW $
 // Copyright:   (c) Ryan Norton
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

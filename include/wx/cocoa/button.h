@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2002/12/29
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: button.h 48529 2007-09-03 17:17:35Z DE $
 // Copyright:   (c) 2002 David Elliott
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

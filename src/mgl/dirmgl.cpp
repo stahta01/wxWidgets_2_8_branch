@@ -4,7 +4,7 @@
 // Author:      Vaclav Slavik, Vadim Zeitlin
 // Modified by:
 // Created:     2001/12/09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dirmgl.cpp 38791 2006-04-18 09:56:17Z ABX $
 // Copyright:   (c) 1999 Vadim Zeitlin <zeitlin@dptmaths.ens-cachan.fr>
 //              (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence

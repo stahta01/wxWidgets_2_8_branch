@@ -5,7 +5,7 @@
 // Modified by:
 // Created:
 // Copyright:   (C) 1999, Robert Roebling
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: plot.cpp 35172 2005-08-10 22:53:45Z MW $
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
 

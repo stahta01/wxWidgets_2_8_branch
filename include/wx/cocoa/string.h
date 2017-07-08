@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/04/13
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: string.h 27408 2004-05-23 20:53:33Z JS $
 // Copyright:   (c) 2003 David Elliott
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

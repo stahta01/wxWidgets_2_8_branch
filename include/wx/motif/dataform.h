@@ -4,7 +4,7 @@
 // Author:      Robert Roebling
 // Modified by:
 // Created:     19.10.99 (extracted from motif/dataobj.h)
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dataform.h 40325 2006-07-25 14:31:55Z ABX $
 // Copyright:   (c) 1999 Robert Roebling
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

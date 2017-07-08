@@ -2,7 +2,7 @@
 // Name:        src/gtk1/window.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: window.cpp 51785 2008-02-14 11:11:48Z JS $
 // Copyright:   (c) 1998 Robert Roebling, Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

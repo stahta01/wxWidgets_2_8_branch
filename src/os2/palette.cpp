@@ -4,7 +4,7 @@
 // Author:      AUTHOR
 // Modified by:
 // Created:     ??/??/98
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: palette.cpp 38791 2006-04-18 09:56:17Z ABX $
 // Copyright:   (c) AUTHOR
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

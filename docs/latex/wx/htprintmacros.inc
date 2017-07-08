@@ -4,7 +4,7 @@
 %%              included from several locations where we list these macros
 %% Author:      Vadim Zeitlin
 %% Created:     2006-07-29
-%% RCS-ID:      $Id$
+%% RCS-ID:      $Id: htprintmacros.inc 40370 2006-07-29 20:45:13Z VZ $
 %% Copyright:   (c) 2006 Vadim Zeitlin
 %% License:     wxWindows license
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

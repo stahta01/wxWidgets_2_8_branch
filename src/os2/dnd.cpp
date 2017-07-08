@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     10/21/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dnd.cpp 39797 2006-06-19 20:18:46Z ABX $
 // Copyright:   (c) 1998 AUTHOR
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

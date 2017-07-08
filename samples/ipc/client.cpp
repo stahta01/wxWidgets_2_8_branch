@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by:    Jurgen Doornik
 // Created:     25/01/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: client.cpp 42458 2006-10-26 16:49:39Z JS $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

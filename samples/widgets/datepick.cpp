@@ -4,7 +4,7 @@
 // Purpose:     Part of the widgets sample showing date picker
 // Author:      Dimitri Schoolwerth, Vadim Zeitlin
 // Created:     27 Sep 2003
-// Id:          $Id$
+// Id:          $Id: datepick.cpp 43921 2006-12-11 13:30:27Z VZ $
 // Copyright:   (c) 2003 wxWindows team
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

@@ -5,7 +5,7 @@
 // Author:      Dave Webster
 // Modified by:
 // Created:     08.02.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: tglbtn.h 36891 2006-01-16 14:59:55Z MR $
 // Copyright:   (c) 2005 David A Webster
 // License:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

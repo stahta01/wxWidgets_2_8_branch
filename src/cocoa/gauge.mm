@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/07/15
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: gauge.mm 39607 2006-06-06 22:02:01Z ABX $
 // Copyright:   (c) 2003 David Elliott
 // Licence:     wxWidgets licence
 /////////////////////////////////////////////////////////////////////////////

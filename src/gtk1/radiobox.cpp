@@ -2,7 +2,7 @@
 // Name:        src/gtk1/radiobox.cpp
 // Purpose:
 // Author:      Robert Roebling
-// Id:          $Id$
+// Id:          $Id: radiobox.cpp 45050 2007-03-25 02:03:27Z VZ $
 // Copyright:   (c) 1998 Robert Roebling
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -4,7 +4,7 @@
 // Author:      William Osborne - minimal working wxPalmOS port
 // Modified by:
 // Created:     10/12/04
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dialog.cpp 40687 2006-08-19 22:56:11Z VZ $
 // Copyright:   (c) William Osborne
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

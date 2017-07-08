@@ -3,7 +3,7 @@
 // Purpose:     wxDataXXXStream Unit Test
 // Author:      Ryan Norton
 // Created:     2004-08-14
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: datastreamtest.cpp 37497 2006-02-11 16:51:34Z VZ $
 // Copyright:   (c) 2004 Ryan Norton
 ///////////////////////////////////////////////////////////////////////////////
 

@@ -4,7 +4,7 @@
 // Author:      David Webster
 // Modified by:
 // Created:     01/23/03
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: treectrl.h 38416 2006-03-28 13:11:20Z ABX $
 // Copyright:   (c) David Webster
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

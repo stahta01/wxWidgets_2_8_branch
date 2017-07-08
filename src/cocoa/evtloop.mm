@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2003/10/02
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: evtloop.mm 43840 2006-12-06 23:28:44Z VZ $
 // Copyright:   (c) 2003 David Elliott <dfe@cox.net>
 // License:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

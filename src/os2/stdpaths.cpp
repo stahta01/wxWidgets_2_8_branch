@@ -4,7 +4,7 @@
 // Author:      Stefan Neis
 // Modified by:
 // Created:     2004-11-06
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: stdpaths.cpp 32649 2005-03-07 22:37:58Z VZ $
 // Copyright:   (c) 2004 Stefan Neis <Stefan.Neis@t-online.de>
 // License:     wxWindows license
 ///////////////////////////////////////////////////////////////////////////////

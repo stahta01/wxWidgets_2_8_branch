@@ -4,7 +4,7 @@
 // Author:      Wlodzimierz ABX Skiba
 // Modified by:
 // Created:     04/08/2004
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: splash.cpp 40587 2006-08-13 01:17:53Z VZ $
 // Copyright:   (c) Wlodzimierz Skiba
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

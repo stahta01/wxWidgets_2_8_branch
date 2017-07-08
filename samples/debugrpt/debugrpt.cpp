@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     2005-01-20
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: debugrpt.cpp 35373 2005-08-30 17:30:43Z ABX $
 // Copyright:   (c) 2005 Vadim Zeitlin <zeitlin@dptmaths.ens-cachan.fr>
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

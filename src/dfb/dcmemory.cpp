@@ -3,7 +3,7 @@
 // Purpose:     wxMemoryDC implementation
 // Author:      Vaclav Slavik
 // Created:     2006-08-16
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: dcmemory.cpp 42783 2006-10-30 22:42:34Z VZ $
 // Copyright:   (c) 2006 REA Elektronik GmbH
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

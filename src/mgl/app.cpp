@@ -2,7 +2,7 @@
 // Name:        src/mgl/app.cpp
 // Author:      Vaclav Slavik
 //              based on GTK and MSW implementations
-// Id:          $Id$
+// Id:          $Id: app.cpp 53607 2008-05-16 15:21:40Z SN $
 // Copyright:   (c) 2001-2002 SciTech Software, Inc. (www.scitechsoft.com)
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

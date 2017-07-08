@@ -4,7 +4,7 @@
 // Author:      Vadim Zeitlin
 // Modified by:
 // Created:     30.12.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: toplevel.cpp 40943 2006-08-31 19:31:43Z ABX $
 // Copyright:   (c) 2001 SciTech Software, Inc. (www.scitechsoft.com)
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

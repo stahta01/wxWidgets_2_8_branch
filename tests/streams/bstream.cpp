@@ -2,7 +2,7 @@
 // Name:        tests/streams/bstream.cpp
 // Purpose:     House the base stream test suite.
 // Author:      Hans Van Leemputten
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: bstream.cpp 42331 2006-10-24 07:47:07Z MW $
 // Copyright:   (c) 2004 Hans Van Leemputten
 // Licence:     wxWidgets licence
 ///////////////////////////////////////////////////////////////////////////////

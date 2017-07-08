@@ -4,7 +4,7 @@
 // Author:      William Osborne - minimal working wxPalmOS port
 // Modified by:
 // Created:     2004-10-14
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: evtloop.h 31469 2005-01-18 21:14:27Z ABX $
 // Copyright:   (c) William Osborne
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

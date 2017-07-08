@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by:
 // Created:     01.06.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: evtloop.cpp 43976 2006-12-14 14:13:57Z VS $
 // Copyright:   (c) 2002 Julian Smart
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

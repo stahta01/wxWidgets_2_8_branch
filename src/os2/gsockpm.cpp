@@ -3,7 +3,7 @@
  * Name:    gsockpm.c
  * Purpose: GSocket: PM part
  * Licence: The wxWindows licence
- * CVSID:   $Id$
+ * CVSID:   $Id: gsockpm.cpp 38791 2006-04-18 09:56:17Z ABX $
  * ------------------------------------------------------------------------- */
 
 // For compilers that support precompilation, includes "wx.h".

@@ -4,7 +4,7 @@
 -- Author:      Ryan Wilcox
 -- Modified by:
 -- Created:     2004-03-30
--- RCS-ID:      $Id$
+-- RCS-ID:      $Id: SetXMLCreator.applescript 26486 2004-03-30 10:26:17Z JS $
 -- Copyright:   (c) 2004 Ryan Wilcox
 -- Licence:     wxWindows licence
 --

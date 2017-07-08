@@ -4,7 +4,7 @@
 // Purpose:     Part of the widgets sample showing wxBitmapComboBox
 // Author:      Jaakko Salli
 // Created:     Sep-01-2006
-// Id:          $Id$
+// Id:          $Id: bmpcombobox.cpp 58156 2009-01-16 19:12:20Z VZ $
 // Copyright:   (c) 2006 Jaakko Salli
 // License:     wxWindows license
 /////////////////////////////////////////////////////////////////////////////

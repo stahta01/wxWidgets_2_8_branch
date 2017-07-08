@@ -2,7 +2,7 @@
 // Name:        src/common/imagiff.h
 // Purpose:     wxImage handler for Amiga IFF images
 // Author:      Steffen Gutmann, Thomas Meyer
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: imagiff.cpp 38787 2006-04-18 07:24:35Z ABX $
 // Copyright:   (c) Steffen Gutmann, 2002
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

@@ -5,7 +5,7 @@
 // Author:      Stefan Csomor
 // Modified by:
 // Created:     08.02.01
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: tglbtn.cpp 38790 2006-04-18 09:05:00Z ABX $
 // Copyright:   (c) 2000 Johnny C. Norris II
 // License:     Rocketeer license
 /////////////////////////////////////////////////////////////////////////////

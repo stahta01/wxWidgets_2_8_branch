@@ -4,7 +4,7 @@
 // Author:      Wlodzimierz ABX Skiba
 // Modified by:
 // Created:     28.12.2004
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: prefconf.h 62185 2009-09-28 10:02:42Z JS $
 // Copyright:   (c) Wlodzimierz Skiba
 // License:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////

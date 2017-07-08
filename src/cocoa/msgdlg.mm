@@ -3,7 +3,7 @@
 // Purpose:     wxMessageDialog for wxCocoa
 // Author:      Gareth Simpson
 // Created:     2007-10-09
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: msgdlg.mm 51798 2008-02-14 21:31:18Z DE $
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
 

@@ -4,7 +4,7 @@
 // Author:      David Elliott
 // Modified by:
 // Created:     2005/01/11
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: settings.mm 67017 2011-02-25 09:37:28Z JS $
 // Copyright:   (c) 2005 David Elliott
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////

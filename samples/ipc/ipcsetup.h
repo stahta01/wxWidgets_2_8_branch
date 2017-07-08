@@ -4,7 +4,7 @@
 // Author:      Julian Smart
 // Modified by: Jurgen Doornik
 // Created:     25/01/99
-// RCS-ID:      $Id$
+// RCS-ID:      $Id: ipcsetup.h 37166 2006-01-26 19:06:06Z ABX $
 // Copyright:   (c) Julian Smart
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
